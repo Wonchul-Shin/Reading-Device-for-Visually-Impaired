@@ -3,7 +3,7 @@
 </br>
 
 * #### 🟡: Developers
-  * 김준기, 김상현, 김동환, 서정환, 신원철
+  * Joonkee Kim, Sunghyun Kim, Dongwon Kim, Jeonghwan Seo, Wonchul Shin
 
 * #### 💻: Device
   * Raspberry pi
