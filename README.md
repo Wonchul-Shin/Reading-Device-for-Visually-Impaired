@@ -23,7 +23,7 @@
 
 ## 1. Feature
 
-# Let the blind read documents easily with voice recognition technique.
+### Let the blind read documents easily with voice recognition technique.
 
 * Hardware is used considering user convenience
 
