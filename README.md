@@ -19,7 +19,9 @@
   * Tesseract
 
 <hr/>
+
 </br>
+
 ## 1. Feature
 
 ### Let the blind read documents easily with voice recognition technique.
