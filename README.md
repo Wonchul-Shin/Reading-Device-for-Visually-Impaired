@@ -1,4 +1,5 @@
 # Document reader device for visually impaired
+
 </br>
 
 * #### 🟡: Developers
@@ -19,7 +20,6 @@
 
 <hr/>
 </br>
-
 ## 1. Feature
 
 ### Let the blind read documents easily with voice recognition technique.
@@ -31,6 +31,7 @@
 * Diverse functions such as highliting and storing are available while reading the documents 
 
 * Voice recognition is used for user command
+
 
 ## 2. Overall Architecture
 
