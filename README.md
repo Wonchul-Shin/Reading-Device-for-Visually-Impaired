@@ -1,4 +1,4 @@
-## Document reader device for visually impaired
+# Document reader device for visually impaired
 
 </br>
 
