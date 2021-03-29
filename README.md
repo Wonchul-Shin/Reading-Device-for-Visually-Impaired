@@ -1,5 +1,4 @@
 # Document reader device for visually impaired
-
 </br>
 
 * #### 🟡: Developers
@@ -19,7 +18,6 @@
   * Tesseract
 
 <hr/>
-
 </br>
 
 ## 1. Feature
