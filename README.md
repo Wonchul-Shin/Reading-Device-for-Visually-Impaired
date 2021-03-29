@@ -1,6 +1,7 @@
 ## Document reader device for visually impaired
 
 </br>
+
 * #### 🟡: Developers
   * 김준기, 김상현, 김동환, 서정환, 신원철
 
@@ -33,10 +34,7 @@
 
 * Voice recognition is used for user command
 
-
-
-![Form1-R2_Team1](https://user-images.githubusercontent.com/72932922/112779092-ec52e000-9080-11eb-8fd4-473907c2c8b7.jpg){: width = "75%" height = "75%"}
-
+## 2. Architecture Diagram
 
 <img src ="https://user-images.githubusercontent.com/72932922/112779092-ec52e000-9080-11eb-8fd4-473907c2c8b7.jpg" width = "75%" height = "75%">
 
