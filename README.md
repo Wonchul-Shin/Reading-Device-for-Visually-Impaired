@@ -39,5 +39,8 @@
 
 <img src ="https://user-images.githubusercontent.com/72932922/112779092-ec52e000-9080-11eb-8fd4-473907c2c8b7.jpg" width = "75%" height = "75%">
 
+## 3. Video Link
+
+https://drive.google.com/file/d/1plg6iv8rqxHW8vRS4pysZktHSEh9u1ZC/view?usp=sharing
 
 
